@@ -40,7 +40,7 @@ import { FileText } from "lucide-react";
 const currentYear = new Date().getFullYear();
 
 export const infos = {
-  name: "Franciele Bentak",
+  name: "José G Nunes Guerra Advocacia",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
   domain: "divorcio-urgente-joseguerra.advespecialista.adv.br", // Sem "www"
