@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://divorcio-urgente.bentakadvespecializada.com.br/sitemap.xml
