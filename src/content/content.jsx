@@ -43,11 +43,11 @@ export const infos = {
   name: "Franciele Bentak",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "divorcio-urgente.bentakadvespecializada.com.br", // Sem "www"
+  domain: "divorcio-urgente-joseguerra.advespecialista.adv.br", // Sem "www"
   phone: {
-    ddd: "47",
-    firstPart: "99167", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "6707", // Apenas os 4 últimos números
+    ddd: "15",
+    firstPart: "98146", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "7789", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "A_Definir",
@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA PARA ENTRAR COM DIVÓRCIO URGENTE",
+      miniTag: "Advogado PARA ENTRAR COM DIVÓRCIO URGENTE",
       FirstPart: <span>Chega de sofrer: Resolva seu Divórcio </span>,
       Destaque: (
         <span className="relative italic font-light destaque">URGENTE</span>
@@ -131,7 +131,7 @@ const content = {
       subtitle: (
         <p>
           Cada dia que você esperar a situação só vai piorar. Resolva seu
-          divórcio rápido com orientação de Advogada Especialista no assunto,
+          divórcio rápido com orientação de Advogado Especialista no assunto,
           tudo pela internet e sem burocracia desnecessária.
         </p>
       ),
@@ -141,7 +141,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: "Falar com Advogada agora no WhatsApp",
+      ctaButtonText: "Falar com Advogado agora no WhatsApp",
       ctaButtonTextSecondary: "A_Definir",
       obsHero: {
         icon: <LucideIdCard />,
@@ -350,7 +350,7 @@ const content = {
           subtitle: "A_Definir",
         },
       },
-      ctaButtonText: "Falar com Advogada",
+      ctaButtonText: "Falar com Advogado",
     },
     emergency: {
       minitag: "A_Definir",
@@ -369,7 +369,7 @@ const content = {
         img: aboutImg,
         alt: "Imagem ilustrativa da Seção Sobre",
       },
-      miniTag: "Franciele Bentak Advocacia e Consultoria",
+      miniTag: "José G Nunes Guerra Advocacia",
       FirstPart: <span> Por que escolher </span>,
       Destaque: <span className="italic font-light"> nosso escritório?</span>,
       SecondPart: <span></span>,
@@ -430,7 +430,7 @@ const content = {
       paragraphModalCta: "Entre em contato",
       titleModal: "A_Definir",
       ctaButtonAriaLabel: "Botão para entrar em contato",
-      ctaButtonText: "Falar diretamente com a Advogada",
+      ctaButtonText: "Falar diretamente com a Advogado",
       // aboutSocial: {
       //   img: {
       //     img: aboutSocialImg,
@@ -508,7 +508,7 @@ const content = {
     },
     ctaSecondary: {
       miniTag: "FALE CONOSCO",
-      title: <h1>Fale agora com uma Advogada</h1>,
+      title: <h1>Fale agora com uma Advogado</h1>,
       subtitle: (
         <div>
           <p className="mb-6 font-secondFont">
@@ -531,7 +531,7 @@ const content = {
             <span className="p-1 border-2 rounded-full">
               <Check className="" width={17} height={17} />
             </span>{" "}
-            Atendimento direto com a Advogada, sem intermediários
+            Atendimento direto com a Advogado, sem intermediários
           </div>
           <div className="flex items-start gap-2 mx-auto">
             {" "}
