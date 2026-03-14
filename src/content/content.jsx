@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "Advogado PARA ENTRAR COM DIVÓRCIO URGENTE",
+      miniTag: "ADVOGADO PARA ENTRAR COM DIVÓRCIO URGENTE",
       FirstPart: <span>Chega de sofrer: Resolva seu Divórcio </span>,
       Destaque: (
         <span className="relative italic font-light destaque">URGENTE</span>
