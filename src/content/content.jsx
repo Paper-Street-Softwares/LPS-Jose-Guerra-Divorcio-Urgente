@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO PARA ENTRAR COM DIVÓRCIO URGENTE",
+      miniTag: "DIVÓRCIO URGENTE EM SOROCABA - SP",
       FirstPart: <span>Chega de sofrer: Resolva seu Divórcio </span>,
       Destaque: (
         <span className="relative italic font-light destaque">URGENTE</span>
@@ -146,8 +146,8 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Foco em fazer o melhor acordo para você não sair perdendo.",
-        textTwo: "Atendimento imediato, sem enrolação.",
+        text: "Atendimento Online e Presencial em Sorocaba - SP. ",
+        textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
       images: {
