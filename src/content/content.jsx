@@ -122,7 +122,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "DIVÓRCIO URGENTE EM SOROCABA - SP",
+      miniTag: "DIVÓRCIO URGENTE ",
       FirstPart: <span>Chega de sofrer: Resolva seu Divórcio </span>,
       Destaque: (
         <span className="relative italic font-light destaque">URGENTE</span>
@@ -146,7 +146,7 @@ const content = {
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
-        text: "Atendimento Online e Presencial em Sorocaba - SP. ",
+        text: "Atendimento direto com o Advogado. ",
         textTwo: "Foco em fazer o melhor acordo para você não sair perdendo.",
       },
       secondaryCta: "Contato",
